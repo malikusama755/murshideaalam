@@ -1,0 +1,237 @@
+[
+  {
+    "source": "/index.htm",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/about_hazrat.htm",
+    "destination": "/about",
+    "permanent": true
+  },
+  {
+    "source": "/bayaans_page.htm",
+    "destination": "/bayaans",
+    "permanent": true
+  },
+  {
+    "source": "/1987_program_page.htm",
+    "destination": "/bayaans/1987-programme",
+    "permanent": true
+  },
+  {
+    "source": "/allamarafiq_bayaan_page.htm",
+    "destination": "/bayaans/allama-rafiq",
+    "permanent": true
+  },
+  {
+    "source": "/hazrats_bayaan_index.htm",
+    "destination": "/bayaans/full-index",
+    "permanent": true
+  },
+  {
+    "source": "/contact_us.htm",
+    "destination": "/contact",
+    "permanent": true
+  },
+  {
+    "source": "/bayaan_download.htm",
+    "destination": "/downloads",
+    "permanent": true
+  },
+  {
+    "source": "/duaa_from_quraan.htm",
+    "destination": "/duas",
+    "permanent": true
+  },
+  {
+    "source": "/duas_for_all_occassions.htm",
+    "destination": "/duas/occasions",
+    "permanent": true
+  },
+  {
+    "source": "/bayaan_extracts.htm",
+    "destination": "/extracts",
+    "permanent": true
+  },
+  {
+    "source": "/photo.htm",
+    "destination": "/gallery",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa.htm",
+    "destination": "/khulafa",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_bayaans.htm",
+    "destination": "/khulafa-bayaans",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa2.htm",
+    "destination": "/khulafa-of-khulafa",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa1.htm",
+    "destination": "/khulafa/khalifa-1",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa10.htm",
+    "destination": "/khulafa/khalifa-10",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa11.htm",
+    "destination": "/khulafa/khalifa-11",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa12.htm",
+    "destination": "/khulafa/khalifa-12",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa13.htm",
+    "destination": "/khulafa/khalifa-13",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa14.htm",
+    "destination": "/khulafa/khalifa-14",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa15.htm",
+    "destination": "/khulafa/khalifa-15",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa16.htm",
+    "destination": "/khulafa/khalifa-16",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa17.htm",
+    "destination": "/khulafa/khalifa-17",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa18.htm",
+    "destination": "/khulafa/khalifa-18",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa19.htm",
+    "destination": "/khulafa/khalifa-19",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa2.htm",
+    "destination": "/khulafa/khalifa-2",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa20.htm",
+    "destination": "/khulafa/khalifa-20",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa21.htm",
+    "destination": "/khulafa/khalifa-21",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa22.htm",
+    "destination": "/khulafa/khalifa-22",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa23.htm",
+    "destination": "/khulafa/khalifa-23",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa3.htm",
+    "destination": "/khulafa/khalifa-3",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa4.htm",
+    "destination": "/khulafa/khalifa-4",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa5.htm",
+    "destination": "/khulafa/khalifa-5",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa6.htm",
+    "destination": "/khulafa/khalifa-6",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa7.htm",
+    "destination": "/khulafa/khalifa-7",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa8.htm",
+    "destination": "/khulafa/khalifa-8",
+    "permanent": true
+  },
+  {
+    "source": "/khulafa_of_khalifa9.htm",
+    "destination": "/khulafa/khalifa-9",
+    "permanent": true
+  },
+  {
+    "source": "/links.htm",
+    "destination": "/links",
+    "permanent": true
+  },
+  {
+    "source": "/naat_nazam_munajaat.htm",
+    "destination": "/naat",
+    "permanent": true
+  },
+  {
+    "source": "/prayer_times.htm",
+    "destination": "/namaz",
+    "permanent": true
+  },
+  {
+    "source": "/other_bayaans.htm",
+    "destination": "/other-bayaans",
+    "permanent": true
+  },
+  {
+    "source": "/photogallery/photo26003/real_p.htm",
+    "destination": "/pages/photogallery/photo26003/real-p",
+    "permanent": true
+  },
+  {
+    "source": "/photogallery/photo26003/real_x.htm",
+    "destination": "/pages/photogallery/photo26003/real-x",
+    "permanent": true
+  },
+  {
+    "source": "/islamic_prohibitions.htm",
+    "destination": "/prohibitions",
+    "permanent": true
+  },
+  {
+    "source": "/silsila_geneology.htm",
+    "destination": "/silsila",
+    "permanent": true
+  },
+  {
+    "source": "/about_tariqat.htm",
+    "destination": "/tariqat",
+    "permanent": true
+  }
+]

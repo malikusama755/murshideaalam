@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
+import legacyRedirects from "./legacy-redirects.json";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return legacyRedirects;
+  },
   cacheComponents: true,
   partialPrefetching: true,
   turbopack: {

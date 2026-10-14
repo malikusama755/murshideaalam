@@ -1,6 +1,8 @@
-# Murshid e Aalam
+# Murshid-e-Alam
 
-Simple Next.js site.
+Next.js copy of [www.pirghulamhabib.com](http://www.pirghulamhabib.com/), the memorial site for Hazrat Pir Ghulam Habib Naqshbandi (R.A.).
+
+Original pages, photographs, and bayaan recordings are kept in `public/archive`. The site presents that material with the original sections.
 
 ## Scripts
 
@@ -9,6 +11,6 @@ npm install
 npm run dev
 npm run build
 npm start
+node scripts/mirror-site.js
+node scripts/extract-pages.js
 ```
-
-Development runs at [http://localhost:3000](http://localhost:3000).

@@ -20,6 +20,11 @@
 # production
 /build
 
+# local mirror scratch
+/mirror
+public/archive/_manifest.json
+public/archive/**/*.part
+
 # misc
 .DS_Store
 *.pem
